@@ -10,6 +10,8 @@ This project was organized by Prof. Helene Nadeau and Prof. Sylvia Cox
 
 This project was completed at Dawson College, Montreal, summer of 2025
 
+Older versions of the codes created by former Dawson students (for more information contact us). 
+
 
 For additional info, review our user guide for combining muse eeg with psychopy or contact any/all of the members of this team.
 
