@@ -1,5 +1,7 @@
 # Muse-EEG-use-with-Psychopy
 
+Link to the video tutorial: https://youtu.be/4J70IE_9mck?si=NfYRFcGocdaZuk_D
+
 Code created by Sandra Nitchi
 
 Full project done in collaboration with Lisa Zubkova and Natali Petrosyan
